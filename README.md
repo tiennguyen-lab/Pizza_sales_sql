@@ -1,4 +1,4 @@
-# 🍕PIZZA SALES ANALYSIS USING SQL 
+# PIZZA SALES ANALYSIS USING SQL 
 # 📝 Project Introduction
 
 This project focuses on analyzing Year-to-Date (YTD) sales performance of a US-based e-commerce company using SQL.
