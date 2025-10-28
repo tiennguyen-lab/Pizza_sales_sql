@@ -15,3 +15,9 @@ Delivered a complete data-driven analysis that provided insights into regional p
 
 
 # 📂 Business Questions & SQL Queries
+```sql
+-- Total Revenue 
+select 
+	round(sum(total_price),0) as Total_Revenue
+from pizza_sales
+```
