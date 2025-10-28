@@ -12,3 +12,7 @@ Analyzed sales by Region, State, and Shipping Type to determine performance patt
 
 💡 Outcome:
 Delivered a complete data-driven analysis that provided insights into regional performance, product trends, and profitability — supporting better business decision-making.
+
+
+# 📂 Business Questions & SQL Queries
+
