@@ -1,4 +1,5 @@
-# 🍕 Pizza Sales Analysis using SQL
+# 🍕PIZZA SALES ANALYSIS USING SQL 
+# 📝 Project Introduction
 
 This project focuses on analyzing Year-to-Date (YTD) sales performance of a US-based e-commerce company using SQL.
 Through SQL queries, key business metrics such as YTD Sales, Profit, Quantity Sold, and Profit Margin were calculated and compared with previous year data.
